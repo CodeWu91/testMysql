@@ -1,0 +1,25 @@
+{
+  "name": "testmysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://CodeWu91@github.com/CodeWu91/testMysql.git"
+  },
+  "author": "codewu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeWu91/testMysql/issues"
+  },
+  "homepage": "https://github.com/CodeWu91/testMysql#readme",
+  "dependencies": {
+    "mysql": "2.15.0"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  }
+}
